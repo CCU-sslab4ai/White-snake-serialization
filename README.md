@@ -2,6 +2,14 @@
 
 白蛇傳劇本的序列化
 
+## Quick Start
+
+```
+$ python serialization.py
+```
+
+將會在目錄下產生result.json
+
 ## Python usage
 
 ```python
