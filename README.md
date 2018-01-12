@@ -16,5 +16,5 @@ $ python serialization.py
 import json
 with open('result.json', encoding='utf8') as f:
   data = json.loads(f.read())
-print(data[0]) // Chapter 1
+print(data[0]) # Chapter 1
 ```
